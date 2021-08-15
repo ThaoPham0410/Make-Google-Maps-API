@@ -1,5 +1,5 @@
 # Making Map with Python and Geocoder
-Provide detail:
+Provide detail for each place:
 - Name
 - Address
 - Phone numbers
