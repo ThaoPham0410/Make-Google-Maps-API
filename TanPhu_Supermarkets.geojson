@@ -1,0 +1,855 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.618017,
+                    10.7835271
+                ]
+            },
+            "properties": {
+                "Name": "Tấn Phát Grocery Store",
+                "Address": "22 Đường số 3, Bình Hưng Hoà A, Bình Tân, Thành phố Hồ Chí Minh, Vietnam",
+                "Phone number": "Not available",
+                "Rating": "3/5",
+                "Total rated users": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6374464,
+                    10.773382
+                ]
+            },
+            "properties": {
+                "Name": "Shop USA Today",
+                "Address": "213 Khuông Việt, Phú Trung, Tân Phú, Thành phố Hồ Chí Minh, Vietnam",
+                "Phone": "090 545 25 88",
+                "Rating": "0/5",
+                "Total rated users": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6223826,
+                    10.7909666
+                ]
+            },
+            "properties": {
+                "Name": "Cửa Hàng Thực Phẩm Fresh Mart",
+                "Address": "32 Nguyễn Súy, Tân Quý, Tân Phú, Thành phố Hồ Chí Minh, Vietnam",
+                "Phone number": "Not available",
+                "Rating": "0/5",
+                "Total rated users": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6203338,
+                    10.7902124
+                ]
+            },
+            "properties": {
+                "Name": "Co.op Food",
+                "Address": "262 Tân Hương, Tân Quý, Tân Phú, Thành phố Hồ Chí Minh, Vietnam",
+                "Phone": "090 312 91 86",
+                "Rating": "4.6/5",
+                "Total rated users": 7
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6117003,
+                    10.7837733
+                ]
+            },
+            "properties": {
+                "Name": "Ngọc Trang Foods & Fruits",
+                "Address": "19, 12 Đường số 13A, Bình Hưng Hoà A, Bình Tân, Thành phố Hồ Chí Minh, Vietnam",
+                "Phone": "093 625 34 97",
+                "Rating": "4/5",
+                "Total rated users": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6332192,
+                    10.7752198
+                ]
+            },
+            "properties": {
+                "Name": "Satra Foods",
+                "Address": "Hoà Thanh, Tân Phú, Ho Chi Minh City, Vietnam",
+                "Phone": "1800 1191",
+                "Rating": "0/5",
+                "Total rated users": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6193694,
+                    10.7802654
+                ]
+            },
+            "properties": {
+                "Name": "Co.op Food",
+                "Address": "15 Đường số 1, Bình Hưng Hoà A, Bình Tân, Thành phố Hồ Chí Minh, Vietnam",
+                "Phone number": "Not available",
+                "Rating": "5/5",
+                "Total rated users": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6302459,
+                    10.781508
+                ]
+            },
+            "properties": {
+                "Name": "Co.op Food",
+                "Address": "69A Nguyễn Sơn, Phú Thạnh, Tân Phú, Thành phố Hồ Chí Minh 700000, Vietnam",
+                "Phone": "028 3978 1012",
+                "Rating": "5/5",
+                "Total rated users": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6281655,
+                    10.7798817
+                ]
+            },
+            "properties": {
+                "Name": "Co.op Food",
+                "Address": "40 Lê Khôi, Phú Thạnh, Tân Phú, Thành phố Hồ Chí Minh, Vietnam",
+                "Phone number": "Not available",
+                "Rating": "0/5",
+                "Total rated users": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6195916,
+                    10.8080528
+                ]
+            },
+            "properties": {
+                "Name": "Co.op Food",
+                "Address": "Lê Trọng Tấn, Sơn Kỳ, Tân Phú, Thành phố Hồ Chí Minh, Vietnam",
+                "Phone": "098 725 03 64",
+                "Rating": "0/5",
+                "Total rated users": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6281704,
+                    10.7879281
+                ]
+            },
+            "properties": {
+                "Name": "Co.op Food",
+                "Address": "192 Vườn Lài, Tân Quý, Tân Phú, Thành phố Hồ Chí Minh, Vietnam",
+                "Phone": "098 369 29 83",
+                "Rating": "3.3/5",
+                "Total rated users": 7
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6324471,
+                    10.7996118
+                ]
+            },
+            "properties": {
+                "Name": "Co.op Food",
+                "Address": "177 Đường Tân Sơn Nhì, Tân Sơn Nhì, Tân Phú, Thành phố Hồ Chí Minh, Vietnam",
+                "Phone": "1900 555568",
+                "Rating": "0/5",
+                "Total rated users": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6205339,
+                    10.788163
+                ]
+            },
+            "properties": {
+                "Name": "Đại Lý Nước Mắm Cô Ri",
+                "Address": "127 Đường Lê Thúc Hoạch, Phú Thọ Hoà, Tân Phú, Thành phố Hồ Chí Minh, Vietnam",
+                "Phone": "028 5408 5592",
+                "Rating": "0/5",
+                "Total rated users": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6188835,
+                    10.787893
+                ]
+            },
+            "properties": {
+                "Name": "Nguyên liệu pha chế Cocola",
+                "Address": "127/2/76 Đường Lê Thúc Hoạch, Phú Thọ Hoà, Tân Phú, Thành phố Hồ Chí Minh, Vietnam",
+                "Phone": "090 566 49 95",
+                "Rating": "5/5",
+                "Total rated users": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6266436,
+                    10.7949835
+                ]
+            },
+            "properties": {
+                "Name": "Suna Food",
+                "Address": "037, Chung cư Gò Dầu 2 Lô B, Tân Sơn Nhì, Tân Phú, Thành phố Hồ Chí Minh 700000, Vietnam",
+                "Phone": "097 623 00 62",
+                "Rating": "5/5",
+                "Total rated users": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6302105,
+                    10.7815171
+                ]
+            },
+            "properties": {
+                "Name": "Co.op Food",
+                "Address": "71 Nguyễn Sơn, Phú Thạnh, Tân Phú, Thành phố Hồ Chí Minh, Vietnam",
+                "Phone": "028 3978 1012",
+                "Rating": "4.1/5",
+                "Total rated users": 22
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6204,
+                    10.79564
+                ]
+            },
+            "properties": {
+                "Name": "Quán Drink & Food Hand Made",
+                "Address": "103 Đô Đốc Lộc, Tân Quý, Tân Phú, Thành phố Hồ Chí Minh, Vietnam",
+                "Phone": "093 770 42 85",
+                "Rating": "0/5",
+                "Total rated users": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6164632,
+                    10.7798517
+                ]
+            },
+            "properties": {
+                "Name": "L",
+                "Address": "25 Đường số 1, Bình Hưng Hoà A, Bình Tân, Thành phố Hồ Chí Minh, Vietnam",
+                "Phone": "0794 427 275",
+                "Rating": "0/5",
+                "Total rated users": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6285764,
+                    10.7933641
+                ]
+            },
+            "properties": {
+                "Name": "Co.op Food",
+                "Address": "387 Đường Tân Sơn Nhì, Tân Sơn Nhì, Tân Phú, Thành phố Hồ Chí Minh, Vietnam",
+                "Phone": "093 217 98 38",
+                "Rating": "4.1/5",
+                "Total rated users": 15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.616515,
+                    10.780029
+                ]
+            },
+            "properties": {
+                "Name": "Nabi Food",
+                "Address": "33 Đường số 1, Bình Hưng Hoà A, Bình Tân, Thành phố Hồ Chí Minh, Vietnam",
+                "Phone": "090 850 84 39",
+                "Rating": "0/5",
+                "Total rated users": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6359935,
+                    10.8021841
+                ]
+            },
+            "properties": {
+                "Name": "Bòn Bon Yến Sào Nhà Làm",
+                "Address": "581/36/12 Trường Chinh, Phường 14, Tân Phú, Thành phố Hồ Chí Minh 72008, Vietnam",
+                "Phone": "090 796 28 33",
+                "Rating": "5/5",
+                "Total rated users": 18
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6171343,
+                    10.771439
+                ]
+            },
+            "properties": {
+                "Name": "Co.op Food",
+                "Address": "515 HL2, Bình Trị Đông, Bình Tân, Thành phố Hồ Chí Minh, Vietnam",
+                "Phone number": "Not available",
+                "Rating": "0/5",
+                "Total rated users": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6196245,
+                    10.7824294
+                ]
+            },
+            "properties": {
+                "Name": "Công Ty Tnhh Thực Phẩm Nhật Sơn",
+                "Address": "224 Bình Long, Phú Thạnh, Tân Phú, Thành phố Hồ Chí Minh, Vietnam",
+                "Phone number": "Not available",
+                "Rating": "4.3/5",
+                "Total rated users": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6184812,
+                    10.7895335
+                ]
+            },
+            "properties": {
+                "Name": "Cửa Hàng Tiện Lợi Gn's Mart",
+                "Address": "377 Tân Hương, Tân Quý, Tân Phú, Thành phố Hồ Chí Minh, Vietnam",
+                "Phone number": "Not available",
+                "Rating": "0/5",
+                "Total rated users": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6228711,
+                    10.786782
+                ]
+            },
+            "properties": {
+                "Name": "Nước mắm phú quốc Thanh Quốc",
+                "Address": "111 Lê Quốc Trinh, Phú Thọ Hoà, Tân Phú, Thành phố Hồ Chí Minh, Vietnam",
+                "Phone": "090 900 87 11",
+                "Rating": "1/5",
+                "Total rated users": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6376045,
+                    10.7818939
+                ]
+            },
+            "properties": {
+                "Name": "Co.op Food",
+                "Address": "83/16 Thoại Ngọc Hầu, Hoà Thanh, Tân Phú, Thành phố Hồ Chí Minh, Vietnam",
+                "Phone": "028 3860 6001",
+                "Rating": "4.4/5",
+                "Total rated users": 45
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.614267,
+                    10.7730706
+                ]
+            },
+            "properties": {
+                "Name": "Co.op Food",
+                "Address": "A.002 CC Hoàng Kim Thế Gia, 31 Trương Phước Phan, Bình Trị Đông, Bình Tân, Thành phố Hồ Chí Minh, Vietnam",
+                "Phone number": "Not available",
+                "Rating": "3/5",
+                "Total rated users": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6310412,
+                    10.7988655
+                ]
+            },
+            "properties": {
+                "Name": "Co.op Food",
+                "Address": "16 Nguyễn Cửu Đàm, Tân Sơn Nhì, Tân Phú, Thành phố Hồ Chí Minh, Vietnam",
+                "Phone": "1900 555568",
+                "Rating": "0/5",
+                "Total rated users": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6352216,
+                    10.7944535
+                ]
+            },
+            "properties": {
+                "Name": "Fresh Shop ORGANIC",
+                "Address": "68A Dân Tộc, Tân Thạnh, Tân Phú, Thành phố Hồ Chí Minh, Vietnam",
+                "Phone number": "Not available",
+                "Rating": "0/5",
+                "Total rated users": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6243737,
+                    10.7725328
+                ]
+            },
+            "properties": {
+                "Name": "Khải San Food Tân Phú",
+                "Address": "239, 241 Hòa Bình, Hiệp Tân, Tân Phú, Thành phố Hồ Chí Minh, Vietnam",
+                "Phone": "098 319 65 60",
+                "Rating": "5/5",
+                "Total rated users": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.618072,
+                    10.784228
+                ]
+            },
+            "properties": {
+                "Name": "tạp hoá ông năm tàu",
+                "Address": "20/22 Đường số 3, Bình Hưng Hoà A, Bình Tân, Thành phố Hồ Chí Minh, Vietnam",
+                "Phone": "093 484 00 23",
+                "Rating": "5/5",
+                "Total rated users": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6237746,
+                    10.791143
+                ]
+            },
+            "properties": {
+                "Name": "Nhung Store",
+                "Address": "18 Phạm Ngọc, Tân Quý, Tân Phú, Thành phố Hồ Chí Minh, Vietnam",
+                "Phone number": "Not available",
+                "Rating": "0/5",
+                "Total rated users": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.636477,
+                    10.7924241
+                ]
+            },
+            "properties": {
+                "Name": "Co.op Food",
+                "Address": "33-35 Nguyễn Bá Tòng, Tân Thạnh, Tân Phú, Thành phố Hồ Chí Minh, Vietnam",
+                "Phone": "028 3812 3543",
+                "Rating": "4/5",
+                "Total rated users": 21
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.616296,
+                    10.780192
+                ]
+            },
+            "properties": {
+                "Name": "Nabi Food",
+                "Address": "111 Đường số 1, Bình Hưng Hoà A, Bình Tân, Thành phố Hồ Chí Minh, Vietnam",
+                "Phone": "090 850 84 39",
+                "Rating": "5/5",
+                "Total rated users": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6219678,
+                    10.7741109
+                ]
+            },
+            "properties": {
+                "Name": "Cửa Hàng Tạp Hóa Hương Trang",
+                "Address": "380 Thoại Ngọc Hầu, Phú Thạnh, Tân Phú, Thành phố Hồ Chí Minh, Vietnam",
+                "Phone": "028 2244 5933",
+                "Rating": "0/5",
+                "Total rated users": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6224351,
+                    10.791248
+                ]
+            },
+            "properties": {
+                "Name": "Cửa Hàng Thực Phẩm Kim Nhung",
+                "Address": "42 Nguyễn Súy, Tân Quý, Tân Phú, Thành phố Hồ Chí Minh, Vietnam",
+                "Phone": "093 818 40 73",
+                "Rating": "0/5",
+                "Total rated users": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6191369,
+                    10.7896972
+                ]
+            },
+            "properties": {
+                "Name": "Dolphin Mart",
+                "Address": "94, 41 Tân Hương, Tân Quý, Tân Phú, Thành phố Hồ Chí Minh, Vietnam",
+                "Phone": "090 925 75 66",
+                "Rating": "5/5",
+                "Total rated users": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6324724,
+                    10.8041297
+                ]
+            },
+            "properties": {
+                "Name": "Cửa Hàng Thực Phẩm 8",
+                "Address": "8 Lê Trọng Tấn, Phường 15, Tân Phú, Thành phố Hồ Chí Minh, Vietnam",
+                "Phone": "028 3812 0509",
+                "Rating": "0/5",
+                "Total rated users": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6139199,
+                    10.7836356
+                ]
+            },
+            "properties": {
+                "Name": "Kathy’s store USA",
+                "Address": "17 Đ. số 5D, Bình Hưng Hoà A, Bình Tân, Thành phố Hồ Chí Minh, Vietnam",
+                "Phone": "0337 901 197",
+                "Rating": "0/5",
+                "Total rated users": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.621149,
+                    10.785901
+                ]
+            },
+            "properties": {
+                "Name": "Cửa Hàng Cháo Dinh Dưỡng Hoa Tấm",
+                "Address": "87 Lê Thiệt, Phú Thọ Hoà, Tân Phú, Thành phố Hồ Chí Minh, Vietnam",
+                "Phone number": "Not available",
+                "Rating": "0/5",
+                "Total rated users": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6280021,
+                    10.7800773
+                ]
+            },
+            "properties": {
+                "Name": "Co.op Food 37 quách đình bảo",
+                "Address": "37 Quách Đình Bảo, Phú Thạnh, Tân Phú, Thành phố Hồ Chí Minh, Vietnam",
+                "Phone number": "Not available",
+                "Rating": "4.4/5",
+                "Total rated users": 9
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6310412,
+                    10.7988655
+                ]
+            },
+            "properties": {
+                "Name": "Co.op Food",
+                "Address": "16 Nguyễn Cửu Đàm, Tân Sơn Nhì, Tân Phú, Thành phố Hồ Chí Minh, Vietnam",
+                "Phone number": "Not available",
+                "Rating": "4.3/5",
+                "Total rated users": 6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6210859,
+                    10.7886201
+                ]
+            },
+            "properties": {
+                "Name": "Bách Hoá Ngọc Hạnh",
+                "Address": "116c Đường Lê Thúc Hoạch, Phú Thọ Hoà, Tân Phú, Thành phố Hồ Chí Minh, Vietnam",
+                "Phone": "0394 660 868",
+                "Rating": "0/5",
+                "Total rated users": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6269287,
+                    10.7917877
+                ]
+            },
+            "properties": {
+                "Name": "Hàng Tiêu Dùng Thái Lan",
+                "Address": "75 Đường Đô Đốc Long, Tân Quý, Tân Phú, Thành phố Hồ Chí Minh, Vietnam",
+                "Phone": "093 374 57 85",
+                "Rating": "0/5",
+                "Total rated users": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6223976,
+                    10.7907792
+                ]
+            },
+            "properties": {
+                "Name": "VinMart+",
+                "Address": "22A, 24 Nguyễn Súy, Tân Quý, Tân Phú, Thành phố Hồ Chí Minh, Vietnam",
+                "Phone": "024 7106 6866",
+                "Rating": "4.5/5",
+                "Total rated users": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6224381,
+                    10.7909663
+                ]
+            },
+            "properties": {
+                "Name": "Đại Lý Thực Phẩm Vissan",
+                "Address": "32 Nguyễn Súy, Tân Quý, Tân Phú, Thành phố Hồ Chí Minh, Vietnam",
+                "Phone": "028 3847 2099",
+                "Rating": "0/5",
+                "Total rated users": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6180707,
+                    10.7844193
+                ]
+            },
+            "properties": {
+                "Name": "Thảo vân",
+                "Address": "2/7, 13 Đường số 5, Bình Hưng Hoà A, Bình Tân, Thành phố Hồ Chí Minh, Vietnam",
+                "Phone number": "Not available",
+                "Rating": "0/5",
+                "Total rated users": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6203668,
+                    10.7857169
+                ]
+            },
+            "properties": {
+                "Name": "Lấy sữa hà lan tân phú",
+                "Address": "119 Lê Lư, Phú Thọ Hoà, Tân Phú, Thành phố Hồ Chí Minh, Vietnam",
+                "Phone number": "Not available",
+                "Rating": "0/5",
+                "Total rated users": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6273255,
+                    10.793288
+                ]
+            },
+            "properties": {
+                "Name": "Bigbuy24h",
+                "Address": "300 Đ. Độc Lập, Tân Sơn Nhì, Tân Phú, Thành phố Hồ Chí Minh 700000, Vietnam",
+                "Phone number": "Not available",
+                "Rating": "0/5",
+                "Total rated users": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.620439,
+                    10.7816298
+                ]
+            },
+            "properties": {
+                "Name": "VinMart+",
+                "Address": "Số 1 Văn Cao, Phú Thạnh, Tân Phú, Thành phố Hồ Chí Minh 72013, Vietnam",
+                "Phone": "024 7106 6866",
+                "Rating": "5/5",
+                "Total rated users": 3
+            }
+        }
+    ]
+}
