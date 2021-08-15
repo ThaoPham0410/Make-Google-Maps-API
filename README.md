@@ -1,1 +1,1 @@
-# Making Google Maps API by Python
+# Making Map with Python and Geocoder
