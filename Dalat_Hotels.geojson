@@ -1,0 +1,855 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.4355582,
+                    11.954915
+                ]
+            },
+            "properties": {
+                "Name": "Mooka 's Home - Backpackers Hostel (Travel Agency)",
+                "Address": "02 Đ. Cổ Loa, Phường 2, Thành phố Đà Lạt, Lâm Đồng 670000, Vietnam",
+                "Phone": "093 257 97 52",
+                "Rating": "4.6/5",
+                "Total rated users": 176
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.445902,
+                    11.9281419
+                ]
+            },
+            "properties": {
+                "Name": "SANY Hostel",
+                "Address": "0335951191, 31 Đường Tô Hiến Thành, Phường 3, Thành phố Đà Lạt, Lâm Đồng 66100, Vietnam",
+                "Phone": "0335 951 191",
+                "Rating": "4.9/5",
+                "Total rated users": 41
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.4368133,
+                    11.9516
+                ]
+            },
+            "properties": {
+                "Name": "Dalat Happy Hostel",
+                "Address": "41, 5 Đường Thông Thiên Học, Phường 2, Thành phố Đà Lạt, Lâm Đồng 670000, Vietnam",
+                "Phone": "0835 844 384",
+                "Rating": "4.6/5",
+                "Total rated users": 47
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.4266589,
+                    11.9408449
+                ]
+            },
+            "properties": {
+                "Name": "John cafe and beer",
+                "Address": "I13 kqh, Đường Mạc Đĩnh Chi, Phường 5, Thành phố Đà Lạt, Lâm Đồng 63000, Vietnam",
+                "Phone": "090 974 89 19",
+                "Rating": "5/5",
+                "Total rated users": 26
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.4253158,
+                    11.9514837
+                ]
+            },
+            "properties": {
+                "Name": "Nhà Gió",
+                "Address": "70, 28 Đường Nguyễn An Ninh, Phường 6, Thành phố Đà Lạt, Lâm Đồng 670001, Vietnam",
+                "Phone": "097 968 73 53",
+                "Rating": "4.3/5",
+                "Total rated users": 142
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.433392,
+                    11.9413476
+                ]
+            },
+            "properties": {
+                "Name": "GAIA (Memory) Hostel Dalat",
+                "Address": "65 Đường Thủ Khoa Huân, Phường 1, Thành phố Đà Lạt, Lâm Đồng, Vietnam",
+                "Phone": "0846 666 399",
+                "Rating": "4.4/5",
+                "Total rated users": 120
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.4314583,
+                    11.9438011
+                ]
+            },
+            "properties": {
+                "Name": "Mr.Peace Backpacker's House",
+                "Address": "3/8 Đường Hai Bà Trưng, Phường 6, Thành phố Đà Lạt, Lâm Đồng, Vietnam",
+                "Phone": "0263 3828 456",
+                "Rating": "4.4/5",
+                "Total rated users": 216
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.4194061,
+                    11.9333909
+                ]
+            },
+            "properties": {
+                "Name": "Komori House & Foods",
+                "Address": "Hẻm 40 Huyền Trân Công Chúa, Phường 4, Thành phố Đà Lạt, Lâm Đồng, Vietnam",
+                "Phone number": "Not available",
+                "Rating": "4.4/5",
+                "Total rated users": 48
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.4272164,
+                    11.9407603
+                ]
+            },
+            "properties": {
+                "Name": "Độc Mộc Homestay",
+                "Address": "b17 Đường Mạc Đĩnh Chi, Phường 5, Thành phố Đà Lạt, Lâm Đồng, Vietnam",
+                "Phone number": "Not available",
+                "Rating": "4.4/5",
+                "Total rated users": 11
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.4318083,
+                    11.9344777
+                ]
+            },
+            "properties": {
+                "Name": "Bua Tiec Nho Hostel",
+                "Address": "Alley 1/5A Le Hong Phong, Ward 4, Da Lat, Phường 4, Thành phố Đà Lạt, Lâm Đồng, Vietnam",
+                "Phone": "098 605 97 95",
+                "Rating": "4.5/5",
+                "Total rated users": 32
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.4435659,
+                    11.9284772
+                ]
+            },
+            "properties": {
+                "Name": "Da Lat Mr.Happy Homestay.",
+                "Address": "252 Đường Tô Hiến Thành, Phường 3, Thành phố Đà Lạt, Lâm Đồng 670000, Vietnam",
+                "Phone": "0865 966 279",
+                "Rating": "4.8/5",
+                "Total rated users": 95
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.4440336,
+                    11.928532
+                ]
+            },
+            "properties": {
+                "Name": "CHE HOUSE DALAT",
+                "Address": "E42 KQH, Đường Tô Hiến Thành, Phường 3, Thành phố Đà Lạt, Lâm Đồng, Vietnam",
+                "Phone": "0789 379 486",
+                "Rating": "4.8/5",
+                "Total rated users": 37
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.4235677,
+                    11.9423114
+                ]
+            },
+            "properties": {
+                "Name": "Homestay Mộc Đà Lạt",
+                "Address": "23 Đường Ma Trang Sơn, Phường 5, Thành phố Đà Lạt, Lâm Đồng, Vietnam",
+                "Phone": "0889 616 727",
+                "Rating": "3.7/5",
+                "Total rated users": 36
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.43927,
+                    11.9292669
+                ]
+            },
+            "properties": {
+                "Name": "Homestay Ngôi Nhà Nghiêng",
+                "Address": "05 Đường An Bình, Phường 3, Thành phố Đà Lạt, Lâm Đồng, Vietnam",
+                "Phone": "091 318 91 81",
+                "Rating": "4.8/5",
+                "Total rated users": 27
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.4507589,
+                    11.9308473
+                ]
+            },
+            "properties": {
+                "Name": "THE CIRCLE VIETNAM HOMESTAY",
+                "Address": "233, Đường Đặng Thái Thân, Phường 3, Thành phố Đà Lạt, Lâm Đồng, Vietnam",
+                "Phone": "094 697 69 79",
+                "Rating": "4.2/5",
+                "Total rated users": 304
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.4405544,
+                    11.9434674
+                ]
+            },
+            "properties": {
+                "Name": "SuRi's House Homestay Dalat",
+                "Address": "14, 2 Đường Bùi Thị Xuân, Phường 2, Thành phố Đà Lạt, Lâm Đồng 670000, Vietnam",
+                "Phone": "097 645 04 40",
+                "Rating": "4.4/5",
+                "Total rated users": 65
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.4272742,
+                    11.9579851
+                ]
+            },
+            "properties": {
+                "Name": "Rốt Homestay",
+                "Address": "180 Ngô Quyền, Phường 6, Thành phố Đà Lạt, Lâm Đồng 670000, Vietnam",
+                "Phone": "0824 544 089",
+                "Rating": "4.6/5",
+                "Total rated users": 23
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.4526734,
+                    11.9398155
+                ]
+            },
+            "properties": {
+                "Name": "Mùa Gió homestay",
+                "Address": "49, 11 Đường Phạm Hồng Thái, Phường 10, Thành phố Đà Lạt, Lâm Đồng 66000, Vietnam",
+                "Phone": "096 905 58 85",
+                "Rating": "4.8/5",
+                "Total rated users": 9
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.4198319,
+                    11.9361666
+                ]
+            },
+            "properties": {
+                "Name": "Nhà Mình Homestay - Cafe - BBQ Garden",
+                "Address": "32 Đường Mẫu Tâm, Phường 4, Thành phố Đà Lạt, Lâm Đồng, Vietnam",
+                "Phone": "094 568 99 53",
+                "Rating": "4.8/5",
+                "Total rated users": 34
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.4571714,
+                    11.9386396
+                ]
+            },
+            "properties": {
+                "Name": "Zodiac House & Coffee",
+                "Address": "27 Lê Văn Tám, Phường 10, Thành phố Đà Lạt, Lâm Đồng, Vietnam",
+                "Phone": "094 329 93 95",
+                "Rating": "4.1/5",
+                "Total rated users": 59
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.4401005,
+                    11.9364687
+                ]
+            },
+            "properties": {
+                "Name": "Đạ Lạch hostel",
+                "Address": "hẻm 1 Đ. Trần Phú, Phường 3, Thành phố Đà Lạt, Lâm Đồng, Vietnam",
+                "Phone": "098 763 90 53",
+                "Rating": "4.8/5",
+                "Total rated users": 51
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.4395463,
+                    11.9279566
+                ]
+            },
+            "properties": {
+                "Name": "Books Homestay Đà Lạt",
+                "Address": "73 Đường Đống Đa, Phường 3, Thành phố Đà Lạt, Lâm Đồng, Vietnam",
+                "Phone": "091 100 09 49",
+                "Rating": "4.8/5",
+                "Total rated users": 50
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.4260886,
+                    11.9520139
+                ]
+            },
+            "properties": {
+                "Name": "Rose Hill homestay, Đà Lạt",
+                "Address": "42 Đường Nguyễn An Ninh, dốc trên, Thành phố Đà Lạt, Lâm Đồng, Vietnam",
+                "Phone": "090 667 10 79",
+                "Rating": "4.1/5",
+                "Total rated users": 49
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.4324182,
+                    11.9333369
+                ]
+            },
+            "properties": {
+                "Name": "Big Home Đà Lạt",
+                "Address": "5, 62 Đ. Đào Duy Từ, Phường 3, Thành phố Đà Lạt, Lâm Đồng, Vietnam",
+                "Phone": "0834 618 861",
+                "Rating": "4.8/5",
+                "Total rated users": 55
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.4344518,
+                    11.9410092
+                ]
+            },
+            "properties": {
+                "Name": "Doc May Boutique Villa",
+                "Address": "16B Nam Kỳ Khởi Nghĩa, Phường 1, Thành phố Đà Lạt, Lâm Đồng, Vietnam",
+                "Phone": "0363 978 225",
+                "Rating": "4.4/5",
+                "Total rated users": 83
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.4317216,
+                    11.9337316
+                ]
+            },
+            "properties": {
+                "Name": "Homestay Raanana Đà Lạt",
+                "Address": "5B Đường Lê Hồng Phong, Phường 4, Thành phố Đà Lạt, Lâm Đồng, Vietnam",
+                "Phone": "091 194 83 68",
+                "Rating": "4.6/5",
+                "Total rated users": 62
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.4292163,
+                    11.9450311
+                ]
+            },
+            "properties": {
+                "Name": "Bảo Long Đà Lạt Guesthouse",
+                "Address": "53 Đường Trần Nhật Duật, Phường 5, Thành phố Đà Lạt, Lâm Đồng, Vietnam",
+                "Phone": "0388 888 462",
+                "Rating": "4.5/5",
+                "Total rated users": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.4280624,
+                    11.9313068
+                ]
+            },
+            "properties": {
+                "Name": "Chái Bơ Homestay",
+                "Address": "Doc So 3, Đường Triệu Việt Vương, Phường 4, Thành phố Đà Lạt, Lâm Đồng 670000, Vietnam",
+                "Phone": "091 951 11 04",
+                "Rating": "4.4/5",
+                "Total rated users": 26
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.4370414,
+                    11.9484161
+                ]
+            },
+            "properties": {
+                "Name": "Sleep in DaLat Hostel",
+                "Address": "83/5b Nguyễn Văn Trỗi, Phường 2, Thành phố Đà Lạt, Lâm Đồng, Vietnam",
+                "Phone": "0785 948 368",
+                "Rating": "4.3/5",
+                "Total rated users": 47
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.4283379,
+                    11.9372291
+                ]
+            },
+            "properties": {
+                "Name": "DALAT LEGEND Homestay",
+                "Address": "B30, KQH Đường Hoàng Văn Thụ, Phường 4, Thành phố Đà Lạt, Lâm Đồng 670000, Vietnam",
+                "Phone": "0838 304 848",
+                "Rating": "4.5/5",
+                "Total rated users": 42
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.452781,
+                    11.9261845
+                ]
+            },
+            "properties": {
+                "Name": "The KUPID Homestay",
+                "Address": "47 Đường Đặng Thái Thân, Phường 3, Thành phố Đà Lạt, Lâm Đồng 670000, Vietnam",
+                "Phone": "0899 509 000",
+                "Rating": "3.7/5",
+                "Total rated users": 415
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.4351993,
+                    11.9310859
+                ]
+            },
+            "properties": {
+                "Name": "Cobe Homestay 1",
+                "Address": "F1C5, Đường Nguyễn Trung Trực, Phường 3, Thành phố Đà Lạt, Lâm Đồng, Vietnam",
+                "Phone": "0886 047 070",
+                "Rating": "4.5/5",
+                "Total rated users": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.4324569,
+                    11.9331455
+                ]
+            },
+            "properties": {
+                "Name": "Cam Ly Homestay",
+                "Address": "62 Đ. Đào Duy Từ, st, Thành phố Đà Lạt, Lâm Đồng 760000, Vietnam",
+                "Phone": "0365 338 143",
+                "Rating": "4.6/5",
+                "Total rated users": 156
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.4300965,
+                    11.9353111
+                ]
+            },
+            "properties": {
+                "Name": "Le Chalet Home Stay",
+                "Address": "ĐỐI DIỆN CRAZY HOUSE, SỐ 6 Đường Huỳnh Thúc Kháng, Phường 4, Thành phố Đà Lạt, Lâm Đồng, Vietnam",
+                "Phone": "093 645 39 24",
+                "Rating": "5/5",
+                "Total rated users": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.4282836,
+                    11.9312734
+                ]
+            },
+            "properties": {
+                "Name": "Làng Boho Homestay",
+                "Address": "09 Đường Triệu Việt Vương, Phường 4, Thành phố Đà Lạt, Lâm Đồng, Vietnam",
+                "Phone": "091 123 41 90",
+                "Rating": "4.4/5",
+                "Total rated users": 184
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.4359493,
+                    11.9469149
+                ]
+            },
+            "properties": {
+                "Name": "BonBonjour Homestay DaLat",
+                "Address": "69D Nguyễn Văn Trỗi, Phường 2, Thành phố Đà Lạt, Lâm Đồng, Vietnam",
+                "Phone": "0585 832 095",
+                "Rating": "4.7/5",
+                "Total rated users": 7
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.4551773,
+                    11.9401979
+                ]
+            },
+            "properties": {
+                "Name": "Homestay Tranh Gỗ",
+                "Address": "43/2, 2 Đường Phạm Hồng Thái, Phường 10, Thành phố Đà Lạt, Lâm Đồng 67000, Vietnam",
+                "Phone": "093 460 08 60",
+                "Rating": "4.8/5",
+                "Total rated users": 12
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.4545855,
+                    11.9379178
+                ]
+            },
+            "properties": {
+                "Name": "Hostel Hạ Vy",
+                "Address": "Lê Văn Tám, Phường 10, Thành phố Đà Lạt, Lâm Đồng, Vietnam",
+                "Phone": "0888 881 316",
+                "Rating": "4.5/5",
+                "Total rated users": 27
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.4347602,
+                    11.9512489
+                ]
+            },
+            "properties": {
+                "Name": "Wolfpack Hostel Dalat",
+                "Address": "118 Đường Nguyễn An Ninh, Phường 06, Thành phố Đà Lạt, Lâm Đồng, Vietnam",
+                "Phone": "090 273 73 72",
+                "Rating": "4.5/5",
+                "Total rated users": 141
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.424362,
+                    11.9245609
+                ]
+            },
+            "properties": {
+                "Name": "Nơi Góc Hẻm Homestay Đà Lạt",
+                "Address": "Lô B1, khu quy hoạch, Đ. An Sơn, Phường 4, Thành phố Đà Lạt, Lâm Đồng 680000, Vietnam",
+                "Phone": "0798 268 992",
+                "Rating": "5/5",
+                "Total rated users": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.4331183,
+                    11.9404608
+                ]
+            },
+            "properties": {
+                "Name": "Pi Hostel",
+                "Address": "61 Đường Thủ Khoa Huân, Phường 1, Thành phố Đà Lạt, Lâm Đồng 670000, Vietnam",
+                "Phone": "0263 3525 679",
+                "Rating": "4.5/5",
+                "Total rated users": 228
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.4357791,
+                    11.9548261
+                ]
+            },
+            "properties": {
+                "Name": "Vũ anh Hostel",
+                "Address": "128 Đường An Dương Vương, Phường 2, Thành phố Đà Lạt, Lâm Đồng, Vietnam",
+                "Phone": "097 378 80 97",
+                "Rating": "4/5",
+                "Total rated users": 25
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.4333446,
+                    11.9403247
+                ]
+            },
+            "properties": {
+                "Name": "Nụ Cười Xinh",
+                "Address": "71 / 72 Đường Thủ Khoa Huân, Phường 1, Thành phố Đà Lạt, Lâm Đồng, Vietnam",
+                "Phone": "090 813 91 43",
+                "Rating": "5/5",
+                "Total rated users": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.4286482,
+                    11.9354284
+                ]
+            },
+            "properties": {
+                "Name": "Woody Villa Homestay",
+                "Address": "26 Đường Huỳnh Thúc Kháng, Phường 4, Thành phố Đà Lạt, Lâm Đồng, Vietnam",
+                "Phone": "0263 3582 668",
+                "Rating": "4.2/5",
+                "Total rated users": 68
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.4258801,
+                    11.9560515
+                ]
+            },
+            "properties": {
+                "Name": "Kim Homestay",
+                "Address": "32 Tô Vĩnh Diện, Phường 6, Thành phố Đà Lạt, Lâm Đồng 66180, Vietnam",
+                "Phone": "094 192 31 90",
+                "Rating": "4.9/5",
+                "Total rated users": 12
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.429104,
+                    11.937205
+                ]
+            },
+            "properties": {
+                "Name": "Leo's Family Hostel & Hangout Dalat",
+                "Address": "D58 Hoàng Văn Thụ Phường 4, Phường 4, Đà Lạt, Lâm Đồng 670000, Vietnam",
+                "Phone": "0263 3556 179",
+                "Rating": "4.2/5",
+                "Total rated users": 74
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.4313529,
+                    11.9460791
+                ]
+            },
+            "properties": {
+                "Name": "eudora homestay",
+                "Address": "90 Đường Phạm Ngọc Thạch, p 6, Thành phố Đà Lạt, Lâm Đồng 66000, Vietnam",
+                "Phone": "094 522 39 29",
+                "Rating": "4.8/5",
+                "Total rated users": 16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.4355189,
+                    11.9399024
+                ]
+            },
+            "properties": {
+                "Name": "Thông Nhỏ Ơi hostel",
+                "Address": "72 Đường Nguyễn Chí Thanh, Phường 1, Thành phố Đà Lạt, Lâm Đồng, Vietnam",
+                "Phone": "0263 6507 272",
+                "Rating": "3.8/5",
+                "Total rated users": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.4352413,
+                    11.951482
+                ]
+            },
+            "properties": {
+                "Name": "Gia Long Homestay",
+                "Address": "24 Đường An Dương Vương, Phường 2, Thành phố Đà Lạt, Lâm Đồng 66000, Vietnam",
+                "Phone": "0797 414 888",
+                "Rating": "5/5",
+                "Total rated users": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.4365982,
+                    11.9516437
+                ]
+            },
+            "properties": {
+                "Name": "Dalat Note Hostel",
+                "Address": "3R/2 Đường Thông Thiên Học, Phường 2, Thành phố Đà Lạt, Lâm Đồng, Vietnam",
+                "Phone": "097 645 39 53",
+                "Rating": "4.6/5",
+                "Total rated users": 220
+            }
+        }
+    ]
+}
